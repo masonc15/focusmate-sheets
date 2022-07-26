@@ -48,6 +48,8 @@ def get_session_start_datetime(sessions):
     return date_object
 
 
+# git test comment
+
 # create variables for relevant partner data
 partner_name = partner_profile['user']['name']
 partner_tz = partner_profile['user']['timeZone']
